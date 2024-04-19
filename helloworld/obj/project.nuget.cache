@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "lYOChuY7cbuWNsDaHiZExafELkWPdWIhNrseasEDFBqas94+/XRrvEeaZuaH0E3trtGFwGmUpxYFwxkNoy/8iQ==",
+  "success": true,
+  "projectFilePath": "A:\\c#sources\\helloworld\\helloworld\\helloworld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akram\\.nuget\\packages\\microsoft.codecoverage\\17.10.0-release-24177-07\\microsoft.codecoverage.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0-release-24177-07\\microsoft.net.test.sdk.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0-release-24177-07\\microsoft.testplatform.objectmodel.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0-release-24177-07\\microsoft.testplatform.testhost.17.10.0-release-24177-07.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.556\\stylecop.analyzers.1.2.0-beta.556.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.556\\stylecop.analyzers.unstable.1.2.0.556.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\xunit\\2.7.1\\xunit.2.7.1.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\xunit.analyzers\\1.12.0\\xunit.analyzers.1.12.0.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\xunit.assert\\2.7.1\\xunit.assert.2.7.1.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\xunit.core\\2.7.1\\xunit.core.2.7.1.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\xunit.extensibility.core\\2.7.1\\xunit.extensibility.core.2.7.1.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\xunit.extensibility.execution\\2.7.1\\xunit.extensibility.execution.2.7.1.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.8\\xunit.runner.visualstudio.2.5.8.nupkg.sha512"
+  ],
+  "logs": []
+}
