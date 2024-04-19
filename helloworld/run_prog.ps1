@@ -34,7 +34,10 @@ if ($LASTEXITCODE -eq 0) {
 
 # Run unit tests using dotnet test command
 Write-Host "Running unit tests..."
-dotnet test "A:\c#sources\helloworld\unit test\unit test.csproj" --configuration Release
+cd ..
+cd "unit test"
+dotnet test "unit test.csproj" --configuration Release
+
 
 # Check if unit tests passed or failed
 # You can implement this logic based on the output of the above command
