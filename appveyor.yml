@@ -4,4 +4,4 @@ image: Visual Studio 2022
 
   
 build_script:
-  - ps: .\run_prog.ps1
+  - ps: .\helloworld\run_prog.ps1
