@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "A:\\c#sources\\helloworld\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|a:\\c#sources\\helloworld\\helloworld\\appveyor.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|solutionrelative:helloworld\\appveyor.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|a:\\c#sources\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|a:\\c#sources\\helloworld\\helloworld\\run_prog.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|solutionrelative:helloworld\\run_prog.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C17112C-66F8-4603-AF83-3BB0C9A6E774}|unit test\\unit test.csproj|a:\\c#sources\\helloworld\\unit test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C17112C-66F8-4603-AF83-3BB0C9A6E774}|unit test\\unit test.csproj|solutionrelative:unit test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|a:\\c#sources\\helloworld\\helloworld\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|solutionrelative:helloworld\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|a:\\c#sources\\helloworld\\helloworld\\stylecop.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|solutionrelative:helloworld\\stylecop.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -11,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|solutionrelative:helloworld\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|a:\\c#sources\\helloworld\\helloworld\\run_prog.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|solutionrelative:helloworld\\run_prog.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C17112C-66F8-4603-AF83-3BB0C9A6E774}|unit test\\unit test.csproj|a:\\c#sources\\helloworld\\unit test\\unit test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3C17112C-66F8-4603-AF83-3BB0C9A6E774}|unit test\\unit test.csproj|solutionrelative:unit test\\unit test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|a:\\c#sources\\helloworld\\helloworld\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|solutionrelative:helloworld\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|a:\\c#sources\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AAC4B8C-FF89-4785-9323-F7D3DC8D2CF0}|helloworld\\helloworld.csproj|a:\\c#sources\\helloworld\\helloworld\\build.cake||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C17112C-66F8-4603-AF83-3BB0C9A6E774}|unit test\\unit test.csproj|a:\\c#sources\\helloworld\\unit test\\unit test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{3C17112C-66F8-4603-AF83-3BB0C9A6E774}|unit test\\unit test.csproj|solutionrelative:unit test\\unit test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C17112C-66F8-4603-AF83-3BB0C9A6E774}|unit test\\unit test.csproj|a:\\c#sources\\helloworld\\unit test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C17112C-66F8-4603-AF83-3BB0C9A6E774}|unit test\\unit test.csproj|solutionrelative:unit test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,19 +58,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".editorconfig",
-              "DocumentMoniker": "A:\\c#sources\\helloworld\\helloworld\\.editorconfig",
-              "RelativeDocumentMoniker": "helloworld\\.editorconfig",
-              "ToolTip": "A:\\c#sources\\helloworld\\helloworld\\.editorconfig",
-              "RelativeToolTip": "helloworld\\.editorconfig",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-19T04:02:49.963Z",
+              "DocumentIndex": 0,
+              "Title": "appveyor.yml",
+              "DocumentMoniker": "A:\\c#sources\\helloworld\\helloworld\\appveyor.yml",
+              "RelativeDocumentMoniker": "helloworld\\appveyor.yml",
+              "ToolTip": "A:\\c#sources\\helloworld\\helloworld\\appveyor.yml",
+              "RelativeToolTip": "helloworld\\appveyor.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-04-19T15:02:18.739Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
@@ -76,14 +77,14 @@
               "RelativeDocumentMoniker": "helloworld\\run_prog.ps1",
               "ToolTip": "A:\\c#sources\\helloworld\\helloworld\\run_prog.ps1",
               "RelativeToolTip": "helloworld\\run_prog.ps1",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAswCQAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANOSURBVDhPjVRLTBtXFD1jsEmgBBMwhFQKICtNUEJWXaTKrpG6aJAiISRWWXaTqs2KLmBXKatIEeomUqTumixY5NcqqyiNEhXk8IlCim3ANr/BgAf/xjOeYT7Pve/ZBCchlCOdee/emXvm3vs\u002BEggzMzOMjwfBNM3C6Ojoj2NjYw/ILJa9H6FUKokxGo2y/8Paygr788mTRH9//zWfz9ckAveBpzIK8YN4vLUVx1tauoaGhob7\u002Bvquejyehkrop\u002BAZuq57IHVdZ5OTk8wwDBYKhRYHBgauUWh9WWEP7zM8DBRFwcTEBFRVDQ4ODt4mVxfRJ15Wg2foOM6hqGkak2WZzc7O8oW8QmwWIhUcuoe7rKurQ3t7O3p6engYL7mGT3Yhtk00GmHBYFA4dlEsGthStuGpKX/P9wPp0ciFy/bwyMh9msQd2y68fP7sj3wuuykEI5EPBWmXYHlVhlLQ0dDkh0sKqulAkiR4az1wyOY\u002Bl9GjJEFZX2XD13/4ZjURm6paFJGDIBdc30qBNbch3diG5foAHq7bsBv8\u002BC1m4pFWj0dmIx4UjkpT1hEpqxWZZVk8eP8ecsGUqiPFahE3GJZ0Fyb17lzrF7j8ZRP\u002BWVIwny5iKVOEkisgmdxMO7a1w3WqBKtIdo7E1kgsrtlY0Cy8y1n4PZzCd93N8PtqEE2piCkq1GwB6c2NiGtbea6zb8lqQUMGXizoDP\u002BqFibiCvq6/LjY0Yhb4wksbuaRzWgwNAMeU4eWUV7TltrmKhXBvXI55\u002BNLkO0aTGouprI7sDUd356ox/NYCt\u002BfDuDmpU4EPAyOYRI1FotG1oq6bnClqgz3sCBvIF0sIaCkcEHdwkkvw69/z2NKzuJOKIF7b1bQfQT4utkHW82ZamZbp\u002BMpYmv5o9w7Xm4ZjmXjlx4vWo\u002BVjyrfLrSK1AoV2XweLYEA5sKLOH/2DB6/yGyNG3pSfEgQgh8jTyW\u002BWVwGP1sS2/1RSYhm0xmc7KAFScjIW3CTyfV5e8eMVj4qn5RwOMw6O08JB0fo7RzvKs0kSO8z36tAlERZ//zTjbumrv21Ia885bcRfyUEe3t7r9Kl\u002BRVNP3/H7YPp6elXfCDmhIMgBAlcyE/0Cuvw0IlczBYWgP8Ad15o\u002B6vo50EAAAAASUVORK5CYII=",
               "WhenOpened": "2024-04-19T02:48:42.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "build.cake",
               "DocumentMoniker": "A:\\c#sources\\helloworld\\helloworld\\build.cake",
               "RelativeDocumentMoniker": "helloworld\\build.cake",
@@ -91,25 +92,24 @@
               "RelativeToolTip": "helloworld\\build.cake",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-19T03:06:28.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T03:06:28.009Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "helloworld",
+              "Title": "helloworld.csproj",
               "DocumentMoniker": "A:\\c#sources\\helloworld\\helloworld\\helloworld.csproj",
               "RelativeDocumentMoniker": "helloworld\\helloworld.csproj",
               "ToolTip": "A:\\c#sources\\helloworld\\helloworld\\helloworld.csproj",
               "RelativeToolTip": "helloworld\\helloworld.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-19T03:00:18.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "A:\\c#sources\\helloworld\\helloworld\\Program.cs",
               "RelativeDocumentMoniker": "helloworld\\Program.cs",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "stylecop.json",
               "DocumentMoniker": "A:\\c#sources\\helloworld\\helloworld\\stylecop.json",
               "RelativeDocumentMoniker": "helloworld\\stylecop.json",
@@ -134,13 +134,9 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "unit test",
+              "DocumentIndex": 7,
+              "Title": "unit test.csproj",
               "DocumentMoniker": "A:\\c#sources\\helloworld\\unit test\\unit test.csproj",
               "RelativeDocumentMoniker": "unit test\\unit test.csproj",
               "ToolTip": "A:\\c#sources\\helloworld\\unit test\\unit test.csproj",
@@ -151,16 +147,32 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "A:\\c#sources\\helloworld\\unit test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "unit test\\UnitTest1.cs",
+              "ToolTip": "A:\\c#sources\\helloworld\\unit test\\UnitTest1.cs",
+              "RelativeToolTip": "unit test\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:30:01.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "A:\\c#sources\\helloworld\\helloworld\\.editorconfig",
+              "RelativeDocumentMoniker": "helloworld\\.editorconfig",
+              "ToolTip": "A:\\c#sources\\helloworld\\helloworld\\.editorconfig",
+              "RelativeToolTip": "helloworld\\.editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-19T04:02:49.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "unit test",
               "DocumentMoniker": "A:\\c#sources\\helloworld\\unit test\\unit test.csproj",
               "RelativeDocumentMoniker": "unit test\\unit test.csproj",
@@ -171,17 +183,20 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "A:\\c#sources\\helloworld\\unit test\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "unit test\\UnitTest1.cs",
-              "ToolTip": "A:\\c#sources\\helloworld\\unit test\\UnitTest1.cs",
-              "RelativeToolTip": "unit test\\UnitTest1.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T02:30:01.356Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }
